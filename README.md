@@ -14,5 +14,6 @@
 - **Scan for active devices:**  
   ```sh
   -sn 192.168.0.0-192.168.0.255
+- **Scan for open ports:**  
   ```sh
   -ip 192.168.0.44 -p 0-8000
