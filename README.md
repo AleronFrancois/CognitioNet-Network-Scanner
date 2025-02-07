@@ -1,4 +1,5 @@
 ![NetworkScannerScreenshot#1](https://github.com/user-attachments/assets/6b5be8c3-a954-4291-8cea-a4dcbefa6abd)
+![NetworkScannerScreenshot#2](https://github.com/user-attachments/assets/798e27f4-bd3f-4dda-a4b1-b85f7dff9859)
 
 # CogitioNet
 
